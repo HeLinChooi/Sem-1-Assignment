@@ -147,7 +147,7 @@ public class GOOGOL extends javax.swing.JFrame {
         }
         ta1.setCaretPosition(0);
     }
-    
+    //available search terms
     public static String substringChecker(String s) {
         String query = "";
         if (containsIgnoreCase(s, "Shop","mall", "amazon")) {
